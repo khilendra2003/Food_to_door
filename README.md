@@ -1,3 +1,9 @@
-# Food_to_door
+> ✨ **Note:** This is an opensource Web Application for [Food Devlivery](https://react-quick-food.firebaseapp.com/).
 
-Introducing Food_to_door, the fastest and easiest way to get your favorite food delivered right to your door.With our wide selection of restaurants, you're sure to find something to satisfy your cravings. Whether you're in the mood for pizza, pasta, Mexican, Chinese, or anything in between, we've got you covered.Ordering is simple and convenient. Just browse our menus, choose your items, and checkout. You can track your order in real time so you know exactly when to expect your food.We're committed to providing the best possible customer service. If you have any questions or concerns, our friendly customer support team is always happy to help.
+### [Live demo](https://react-quick-food.firebaseapp.com/)
+
+## Getting Started
+
+- Install dependencies by running `yarn` or `npm install`.
+- Run `yarn start` or `npm run start` to start the local development server.
+- 😎 That's it! You're ready to start building awesome application.
